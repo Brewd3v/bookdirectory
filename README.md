@@ -1,2 +1,2 @@
-# Simple Nodejs book API
+# Simple NodeJS book API
 
